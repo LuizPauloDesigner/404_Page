@@ -19,7 +19,7 @@ Para utilizar esta página 404 em seu projeto, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/SeuUsuario/NomeDoSeuRepositorio.git](https://github.com/SeuUsuario/NomeDoSeuRepositorio.git)
+    git clone [https://github.com/SeuUsuario/LuizPauloDesigner.git](https://github.com/LuizPauloDesigner/404_Page.git)
     ```
 2.  **Copie os Arquivos:**
     Copie os arquivos `index.html` e `styles.css` para o diretório raiz do seu projeto web ou para o local onde você gerencia suas páginas de erro.
